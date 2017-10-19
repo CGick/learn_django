@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# IDE 
+.idea
+
 # Distribution / packaging
 .Python
 env/
@@ -52,6 +55,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+db.sqlite3
 local_settings.py
 
 # Flask stuff:
